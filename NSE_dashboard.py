@@ -1,5 +1,5 @@
 #%%
-!pip install xlrd
+#%%
 from nselib import capital_market
 from nselib import derivatives
 import streamlit as st
